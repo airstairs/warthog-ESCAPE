@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/warthogESCAPE/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": 14207,
+          "line": 442
+        },
+        "start": {
+          "column": 17,
+          "index": 14207,
+          "line": 442
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/warthogESCAPE/app/src/main/assets/index.html"
+}
